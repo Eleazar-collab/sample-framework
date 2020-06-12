@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/eleazarramirez/Documentos/PersonalWorkspace/PracticeFramework/src/main/resources/screenShots/blank_11_06_2020_08_00_39.png'><img src='/Users/eleazarramirez/Documentos/PersonalWorkspace/PracticeFramework/src/main/resources/screenShots/blank_11_06_2020_08_00_39.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/eleazarramirez/Documentos/PersonalWorkspace/PracticeFramework/src/main/resources/screenShots/blank_11_06_2020_08_00_43.png'><img src='/Users/eleazarramirez/Documentos/PersonalWorkspace/PracticeFramework/src/main/resources/screenShots/blank_11_06_2020_08_00_43.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13915" started-at="2020-06-11T20:00:30 CDT" finished-at="2020-06-11T20:00:44 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13915" started-at="2020-06-11T20:00:30 CDT" finished-at="2020-06-11T20:00:44 CDT">
+      <class name="com.practiceFramework.company.testScripts.loginPage.LoginTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.practiceFramework.company.testScripts.loginPage.LoginTest@4d3167f4]" name="beforeSuite" is-config="true" duration-ms="292" started-at="2020-06-11T20:00:30 CDT" finished-at="2020-06-11T20:00:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.practiceFramework.company.testScripts.loginPage.LoginTest@4d3167f4]" name="beforeTest" is-config="true" duration-ms="4037" started-at="2020-06-11T20:00:30 CDT" finished-at="2020-06-11T20:00:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.practiceFramework.company.testScripts.loginPage.LoginTest@4d3167f4]" name="beforeMethod" is-config="true" duration-ms="21" started-at="2020-06-11T20:00:34 CDT" finished-at="2020-06-11T20:00:34 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.practiceFramework.company.testScripts.loginPage.LoginTest.testLoginToApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:com.practiceFramework.company.testScripts.loginPage.LoginTest@4d3167f4]" name="testLoginToApplication" duration-ms="9114" started-at="2020-06-11T20:00:34 CDT" description="Login test with valid credentials" finished-at="2020-06-11T20:00:43 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/eleazarramirez/Documentos/PersonalWorkspace/PracticeFramework/src/main/resources/screenShots/blank_11_06_2020_08_00_39.png'><img src='/Users/eleazarramirez/Documentos/PersonalWorkspace/PracticeFramework/src/main/resources/screenShots/blank_11_06_2020_08_00_39.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/eleazarramirez/Documentos/PersonalWorkspace/PracticeFramework/src/main/resources/screenShots/blank_11_06_2020_08_00_43.png'><img src='/Users/eleazarramirez/Documentos/PersonalWorkspace/PracticeFramework/src/main/resources/screenShots/blank_11_06_2020_08_00_43.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.practiceFramework.company.testScripts.loginPage.LoginTest@4d3167f4]" name="afterMethod" is-config="true" duration-ms="384" started-at="2020-06-11T20:00:43 CDT" finished-at="2020-06-11T20:00:44 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri:0, instance:com.practiceFramework.company.testScripts.loginPage.LoginTest@4d3167f4] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.practiceFramework.company.testScripts.loginPage.LoginTest@4d3167f4]" name="afterTest" is-config="true" duration-ms="237" started-at="2020-06-11T20:00:44 CDT" finished-at="2020-06-11T20:00:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.practiceFramework.company.testScripts.loginPage.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

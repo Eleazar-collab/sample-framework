@@ -1,0 +1,287 @@
+2020-06-11 15:06:424 INFO  LoggerHelper:24 - logger is configured
+2020-06-11 15:06:427 INFO  LoggerHelper:25 - logger is configured
+2020-06-11 15:06:428 INFO  LoggerHelper:26 - logger is configured
+2020-06-11 18:06:949 INFO  TestBase:131 - Initialize Web driver: 1578587450
+2020-06-11 18:06:961 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 18:06:979 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 18:06:17 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 18:06:31 INFO  WaitHelper:142 - page is loaded
+2020-06-11 18:06:860 INFO  TestBase:131 - Initialize Web driver: 1052317717
+2020-06-11 18:06:890 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 18:06:891 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 18:06:925 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 18:06:940 INFO  WaitHelper:142 - page is loaded
+2020-06-11 18:06:39 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-06-11 18:06:590 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 18:06:622 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (5492c9eb154a1624b97f428bb2271ffe)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 18:06:720 INFO  WaitHelper:155 - element is visible now
+2020-06-11 18:06:720 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 18:06:724 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 18:06:461 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 18:06:493 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 18:06:860 INFO  LoginPage:71 - entering email address....1529686406836@gmail.com
+2020-06-11 18:06:197 INFO  LoginPage:77 - entering password....password
+2020-06-11 18:06:326 INFO  LoginPage:83 - clicking on submit button...
+2020-06-11 18:06:328 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 18:06:328 INFO  JavaScriptHelper:83 - scrolling down vertically...
+2020-06-11 18:06:522 INFO  TestBase:90 - **************testLoginToApplicationFinished***************
+2020-06-11 18:06:867 INFO  TestBase:131 - Initialize Web driver: 1052317717
+2020-06-11 18:06:876 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 18:06:877 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 18:06:890 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 18:06:908 INFO  WaitHelper:142 - page is loaded
+2020-06-11 18:06:15 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-06-11 18:06:515 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 18:06:542 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (b38bd45f8c8df91964055ad1e850f35a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 18:06:612 INFO  WaitHelper:155 - element is visible now
+2020-06-11 18:06:613 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 18:06:616 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 18:06:307 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 18:06:342 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 18:06:823 INFO  LoginPage:71 - entering email address....1529686406836@gmail.com
+2020-06-11 18:06:190 INFO  LoginPage:77 - entering password....password
+2020-06-11 18:06:307 INFO  LoginPage:83 - clicking on submit button...
+2020-06-11 18:06:312 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 18:06:313 INFO  JavaScriptHelper:83 - scrolling down vertically...
+2020-06-11 18:06:331 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 18:06:350 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (b38bd45f8c8df91964055ad1e850f35a)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2020-06-11 18:06:372 INFO  WaitHelper:155 - element is visible now
+2020-06-11 18:06:372 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 18:06:373 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 18:06:702 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 18:06:811 ERROR VerificationHelper:27 - element is not Displayed..
+2020-06-11 18:06:814 INFO  LoginTest:25 - Verifying Login...
+2020-06-11 18:06:150 INFO  TestBase:90 - **************testLoginToApplicationFinished***************
+2020-06-11 19:06:879 INFO  TestBase:131 - Initialize Web driver: 1052317717
+2020-06-11 19:06:890 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:891 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 19:06:910 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 19:06:917 INFO  WaitHelper:142 - page is loaded
+2020-06-11 19:06:55 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-06-11 19:06:315 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:338 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (2ee0b04ede14969e4e1e437fa5befe90)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 19:06:398 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:399 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:401 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:77 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:109 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 19:06:451 INFO  LoginPage:71 - entering email address....1529686406836@gmail.com
+2020-06-11 19:06:716 INFO  LoginPage:77 - entering password....password
+2020-06-11 19:06:833 INFO  LoginPage:83 - clicking on submit button...
+2020-06-11 19:06:835 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:835 INFO  JavaScriptHelper:83 - scrolling down vertically...
+2020-06-11 19:06:731 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:749 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (2ee0b04ede14969e4e1e437fa5befe90)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2020-06-11 19:06:772 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:772 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:773 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:117 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:204 ERROR VerificationHelper:27 - element is not Displayed..
+2020-06-11 19:06:208 INFO  LoginTest:25 - Verifying Login...
+2020-06-11 19:06:611 INFO  TestBase:90 - **************testLoginToApplicationFinished***************
+2020-06-11 19:06:848 INFO  TestBase:131 - Initialize Web driver: 1052317717
+2020-06-11 19:06:859 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:860 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 19:06:877 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 19:06:885 INFO  WaitHelper:142 - page is loaded
+2020-06-11 19:06:04 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-06-11 19:06:87 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:112 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (d6e38757962adfb8ccee6fcf638e9a90)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 19:06:188 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:188 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:191 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:930 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:963 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 19:06:857 INFO  LoginPage:71 - entering email address....1529686406836@gmail.com
+2020-06-11 19:06:148 INFO  LoginPage:77 - entering password....password
+2020-06-11 19:06:275 INFO  LoginPage:83 - clicking on submit button...
+2020-06-11 19:06:278 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:279 INFO  JavaScriptHelper:83 - scrolling down vertically...
+2020-06-11 19:06:266 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:289 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (d6e38757962adfb8ccee6fcf638e9a90)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2020-06-11 19:06:316 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:316 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:317 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:679 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:872 ERROR VerificationHelper:27 - element is not Displayed..
+2020-06-11 19:06:875 INFO  LoginTest:25 - Verifying Login...
+2020-06-11 19:06:372 INFO  TestBase:131 - Initialize Web driver: 817299424
+2020-06-11 19:06:383 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:384 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 19:06:405 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 19:06:412 INFO  WaitHelper:142 - page is loaded
+2020-06-11 19:06:565 INFO  TestBase:72 - **************testRegistrationStarted***************
+2020-06-11 19:06:61 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:403 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (f503a024cdbf5cc5152cd0b6726e71e3)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 19:06:481 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:482 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:484 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:109 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:145 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 19:06:981 INFO  LoginPage:98 - entering registration email..1591921399981@gmail.com
+2020-06-11 19:06:441 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:875 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (f503a024cdbf5cc5152cd0b6726e71e3)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2020-06-11 19:06:903 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:904 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:904 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:310 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:335 INFO  RegistrationPage:102 - selecting mr checkbox..
+2020-06-11 19:06:601 INFO  RegistrationPage:114 - entering firstName..firstName
+2020-06-11 19:06:813 INFO  RegistrationPage:120 - entering lastname..lastname
+2020-06-11 19:06:938 INFO  RegistrationPage:132 - entering password..password
+2020-06-11 19:06:81 INFO  RegistrationPage:200 - entering address..address
+2020-06-11 19:06:780 INFO  RegistrationPage:182 - entering yourAddressFirstName..yourAddressFirstName
+2020-06-11 19:06:30 INFO  RegistrationPage:188 - entering yourAddressLastName..yourAddressLastName
+2020-06-11 19:06:303 INFO  RegistrationPage:194 - entering yourAddressCompany..yourAddressCompany
+2020-06-11 19:06:554 INFO  RegistrationPage:212 - entering yourAddressCity..yourAddressCity
+2020-06-11 19:06:774 INFO  RegistrationPage:218 - entering yourAddressState..Alaska
+2020-06-11 19:06:949 INFO  RegistrationPage:224 - entering yourAddressPostCode..99501
+2020-06-11 19:06:72 INFO  RegistrationPage:242 - entering mobilePhone..9999999999
+2020-06-11 19:06:271 INFO  RegistrationPage:248 - entering addressAlias..addressAlias
+2020-06-11 19:06:490 INFO  RegistrationPage:254 - clicked on registration..[[ChromeDriver: chrome on MAC (f503a024cdbf5cc5152cd0b6726e71e3)] -> xpath: //*[@id='submitAccount']]
+2020-06-11 19:06:123 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:141 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (f503a024cdbf5cc5152cd0b6726e71e3)] -> xpath: //*[contains(text(),'Order history and details')]] for :200 seconds
+2020-06-11 19:06:171 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:172 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:172 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:573 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:666 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-11 19:06:684 INFO  RegistrationTest:53 - Verifying TestRegistration...
+2020-06-11 19:06:693 INFO  TestBase:90 - **************testRegistrationFinished***************
+2020-06-11 19:06:133 INFO  TestBase:131 - Initialize Web driver: 1052317717
+2020-06-11 19:06:143 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:144 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 19:06:155 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 19:06:162 INFO  WaitHelper:142 - page is loaded
+2020-06-11 19:06:248 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-06-11 19:06:77 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:99 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (bc899d7369857c6996c2178b92b97434)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 19:06:168 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:169 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:172 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:779 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:810 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 19:06:393 INFO  LoginPage:71 - entering email address....1529686406836@gmail.com
+2020-06-11 19:06:674 INFO  LoginPage:77 - entering password....password
+2020-06-11 19:06:797 INFO  LoginPage:83 - clicking on submit button...
+2020-06-11 19:06:800 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:801 INFO  JavaScriptHelper:83 - scrolling down vertically...
+2020-06-11 19:06:650 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:669 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (bc899d7369857c6996c2178b92b97434)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2020-06-11 19:06:692 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:693 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:693 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:33 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:138 ERROR VerificationHelper:27 - element is not Displayed..
+2020-06-11 19:06:141 INFO  LoginTest:25 - Verifying Login...
+2020-06-11 19:06:572 INFO  TestBase:90 - **************testLoginToApplicationFinished***************
+2020-06-11 19:06:71 INFO  TestBase:131 - Initialize Web driver: 1052317717
+2020-06-11 19:06:78 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:79 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 19:06:90 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 19:06:97 INFO  WaitHelper:142 - page is loaded
+2020-06-11 19:06:155 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-06-11 19:06:36 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:56 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (e3c3280daed81464bf09d1d5c7536117)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 19:06:134 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:134 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:137 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:746 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:779 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 19:06:445 INFO  LoginPage:71 - entering email address....espressivegdl@gmail.com
+2020-06-11 19:06:762 INFO  LoginPage:77 - entering password....Test123!
+2020-06-11 19:06:889 INFO  LoginPage:83 - clicking on submit button...
+2020-06-11 19:06:891 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:895 INFO  JavaScriptHelper:83 - scrolling down vertically...
+2020-06-11 19:06:176 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:193 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (e3c3280daed81464bf09d1d5c7536117)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2020-06-11 19:06:228 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:229 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:229 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:680 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:762 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-11 19:06:781 INFO  LoginTest:25 - Verifying Login...
+2020-06-11 19:06:790 INFO  TestBase:90 - **************testLoginToApplicationFinished***************
+2020-06-11 19:06:751 INFO  TestBase:131 - Initialize Web driver: 817299424
+2020-06-11 19:06:762 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:763 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 19:06:790 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 19:06:796 INFO  WaitHelper:142 - page is loaded
+2020-06-11 19:06:837 INFO  TestBase:72 - **************testRegistrationStarted***************
+2020-06-11 19:06:652 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:121 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (19f34cf2b8808b6f2b8a80aac569de93)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 19:06:210 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:210 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:214 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:12 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:46 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 19:06:776 INFO  LoginPage:99 - Entering registration email..1591923322776@gmail.com
+2020-06-11 19:06:144 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:371 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (19f34cf2b8808b6f2b8a80aac569de93)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2020-06-11 19:06:401 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:402 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:403 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:781 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:791 INFO  RegistrationPage:102 - selecting mr checkbox..
+2020-06-11 19:06:923 INFO  RegistrationPage:114 - entering firstName..firstName
+2020-06-11 19:06:172 INFO  RegistrationPage:120 - entering lastname..lastname
+2020-06-11 19:06:326 INFO  RegistrationPage:132 - entering password..password
+2020-06-11 19:06:456 INFO  RegistrationPage:200 - entering address..address
+2020-06-11 19:06:120 INFO  RegistrationPage:182 - entering yourAddressFirstName..yourAddressFirstName
+2020-06-11 19:06:362 INFO  RegistrationPage:188 - entering yourAddressLastName..yourAddressLastName
+2020-06-11 19:06:590 INFO  RegistrationPage:194 - entering yourAddressCompany..yourAddressCompany
+2020-06-11 19:06:810 INFO  RegistrationPage:212 - entering yourAddressCity..yourAddressCity
+2020-06-11 19:06:01 INFO  RegistrationPage:218 - entering yourAddressState..Alaska
+2020-06-11 19:06:191 INFO  RegistrationPage:224 - entering yourAddressPostCode..99501
+2020-06-11 19:06:335 INFO  RegistrationPage:242 - entering mobilePhone..9999999999
+2020-06-11 19:06:519 INFO  RegistrationPage:248 - entering addressAlias..addressAlias
+2020-06-11 19:06:706 INFO  RegistrationPage:254 - clicked on registration..[[ChromeDriver: chrome on MAC (19f34cf2b8808b6f2b8a80aac569de93)] -> xpath: //*[@id='submitAccount']]
+2020-06-11 19:06:34 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:51 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (19f34cf2b8808b6f2b8a80aac569de93)] -> xpath: //*[contains(text(),'Order history and details')]] for :200 seconds
+2020-06-11 19:06:76 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:76 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:77 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:446 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:526 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-11 19:06:544 INFO  RegistrationTest:53 - Verifying TestRegistration...
+2020-06-11 19:06:552 INFO  TestBase:90 - **************testRegistrationFinished***************
+2020-06-11 19:06:880 INFO  TestBase:131 - Initialize Web driver: 1052317717
+2020-06-11 19:06:890 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:891 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 19:06:933 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 19:06:942 INFO  WaitHelper:142 - page is loaded
+2020-06-11 19:06:27 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-06-11 19:06:304 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 19:06:323 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (9ecf28e681a6abb38d542e07403c2f1b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 19:06:394 INFO  WaitHelper:155 - element is visible now
+2020-06-11 19:06:395 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 19:06:396 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:28 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 19:06:772 INFO  TestBase:90 - **************testLoginToApplicationFinished***************
+2020-06-11 20:06:518 INFO  TestBase:131 - Initialize Web driver: 996125997
+2020-06-11 20:06:552 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 20:06:554 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2020-06-11 20:06:586 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2020-06-11 20:06:621 INFO  WaitHelper:142 - page is loaded
+2020-06-11 20:06:757 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-06-11 20:06:301 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 20:06:330 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (8b05a2137cf5a5231dac0ba57aacb726)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2020-06-11 20:06:395 INFO  WaitHelper:155 - element is visible now
+2020-06-11 20:06:395 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 20:06:398 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 20:06:155 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 20:06:189 INFO  LoginPage:65 - clicked on sign in link...
+2020-06-11 20:06:539 INFO  LoginPage:71 - entering email address....espressivegdl@gmail.com
+2020-06-11 20:06:840 INFO  LoginPage:77 - entering password....Test123!
+2020-06-11 20:06:971 INFO  LoginPage:83 - clicking on submit button...
+2020-06-11 20:06:973 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 20:06:973 INFO  JavaScriptHelper:83 - scrolling down vertically...
+2020-06-11 20:06:307 INFO  WaitHelper:27 - WaitHelper object created..
+2020-06-11 20:06:330 INFO  WaitHelper:152 - waiting for :[[ChromeDriver: chrome on MAC (8b05a2137cf5a5231dac0ba57aacb726)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2020-06-11 20:06:378 INFO  WaitHelper:155 - element is visible now
+2020-06-11 20:06:379 INFO  TestBase:164 - capturing ui navigation screen...
+2020-06-11 20:06:379 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 20:06:772 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2020-06-11 20:06:856 INFO  VerificationHelper:22 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2020-06-11 20:06:875 INFO  LoginTest:25 - Verifying Login...
+2020-06-11 20:06:885 INFO  TestBase:90 - **************testLoginToApplicationFinished***************
